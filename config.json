@@ -1,0 +1,3 @@
+{
+    "dblink": "<your mongodb connection string>"
+}
