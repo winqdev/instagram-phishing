@@ -5,4 +5,4 @@ Simple Instagram phishing made on NodeJS (ExpressJS, Mongoose)
 See it on [Codepen](https://codepen.io/gowedo/pen/VwLwjgj)
 
 # Warning
-Personal purposes ONLY!!
+EDUCATIONAL PURPOSES ONLY!!
